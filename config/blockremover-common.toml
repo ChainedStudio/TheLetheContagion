@@ -1,0 +1,6 @@
+#List of block IDs to remove from world generation
+#Example: ["createrandomprop:annoying_prop", "modid:block_name"]
+#Format: modid:block_name
+#Restart game after changing this list for full effect
+removedBlocks = ["horror_element_mod:self_terminated_body", "immersive_weathering:ivy"]
+

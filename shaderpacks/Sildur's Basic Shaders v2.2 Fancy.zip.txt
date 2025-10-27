@@ -1,0 +1,3 @@
+#Fri Sep 26 21:48:48 SAST 2025
+Distance_Blur=true
+Depth_of_Field=true

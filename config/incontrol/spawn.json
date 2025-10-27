@@ -1,0 +1,49 @@
+[
+    {
+        "dimension": "minecraft:overworld",
+        "mob": "minecraft:creeper",
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mob": "minecraft:skeleton",
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mob": "minecraft:blaze",
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mob": "minecraft:allay",
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mob": "minecraft:iron_golem",
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:overworld",
+        "mob": "minecraft:snow_golem",
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {   "dimension": "minecraft:overworld",
+        "mob": "minecraft:stray",
+        "when": "onjoin",
+        "result": "deny"
+    },
+    {
+        "dimension": "minecraft:nether",
+        "mod": "zombie_extreme",
+        "when": "onjoin",
+        "result": "deny"
+    }
+]

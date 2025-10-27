@@ -1,0 +1,22 @@
+{
+  "fallSpeedPenalty": true,
+  "highfallSpeedPenalty": true,
+  "hayBlockSpeedPenalty": true,
+  "noFallDamageOnHay": true,
+  "enableStoppedJumpAnimations": true,
+  "enableRunningJumpAnimations": true,
+  "enableDivingAnimation": true,
+  "enableCannonballAnimation": true,
+  "enableRollAnimation": true,
+  "enableSwimUpAnimation": true,
+  "enableDivingCannonballAnimation": true,
+  "enableHaystackLandingAnimation": true,
+  "enableFallAnimation": true,
+  "enableHighfallAnimation": true,
+  "enableFallingAnimation": true,
+  "fallSlowdownDurationTicks": 10,
+  "highFallSlowdownDurationTicks": 20,
+  "haystackSlowdownDurationTicks": 60,
+  "fallSpeedMultiplier": 0.8,
+  "highFallSpeedMultiplier": 0.6
+}

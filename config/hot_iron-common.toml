@@ -1,0 +1,17 @@
+
+[General]
+	#Enable a multiblock brick furnace with unique recipes?
+	"Enable Kiln" = true
+	#Enable smeting raw ore blocks in the kiln
+	"Kiln Ore Smelting" = true
+	#Enable obtaining knapped rocks by hitting two normal rocks
+	"Rock Knapping" = true
+	#Enable obtaining Rock by hitting stone with item tagged as rock_obtainers (Only flint by default). Note that disabling this setting does not bring back vanilla stone tool recipes
+	"Rock Obtaining" = true
+
+[Recipes]
+
+	[Recipes.Misc]
+		#Makes a smithing table recipe require smithing hammer and tongs
+		"New Smithing Table recipe" = true
+

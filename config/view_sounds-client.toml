@@ -1,0 +1,57 @@
+
+[General]
+	#Enable debug mode for development
+	debugMode = false
+	#Enable the View Sounds mod completely
+	modEnabled = true
+	#Time in seconds to wait while crouching before activating sound visualization
+	#Range: 0.0 ~ 10.0
+	crouchActivationDelay = 1.0
+	#Maximum distance (in blocks) for sound visualization
+	#Range: 1 ~ 100
+	maxSoundDistance = 20
+	#Key to toggle the View Sounds mod on/off (default: LEFT_ALT)
+	disableKey = "LEFT_ALT"
+
+["Sound Types"]
+	#Enable visualization for hostile mob sounds
+	enableHostile = true
+	#Enable visualization for neutral mob sounds
+	enableNeutral = true
+	#Enable visualization for player sounds
+	enablePlayers = true
+	#Enable visualization for ambient sounds
+	enableAmbient = false
+	#Enable visualization for voice sounds
+	enableVoice = false
+	#Enable visualization for music
+	enableMusic = false
+	#Enable visualization for record sounds
+	enableRecords = false
+	#Enable visualization for weather sounds
+	enableWeather = false
+	#Enable visualization for block sounds
+	enableBlocks = false
+	#Enable visualization for master sounds
+	enableMaster = false
+	#Color for hostile mob sounds (hex format, e.g. #FF0000)
+	colorHostile = "#FF0000"
+	#Color for neutral mob sounds (hex format, e.g. #00FF00)
+	colorNeutral = "#00FF00"
+	#Color for player sounds (hex format, e.g. #FFFFFF)
+	colorPlayers = "#FFFFFF"
+	#Color for ambient sounds (hex format, e.g. #87CEEB)
+	colorAmbient = "#87CEEB"
+	#Color for voice sounds (hex format, e.g. #FF69B4)
+	colorVoice = "#FF69B4"
+	#Color for music (hex format, e.g. #FFD700)
+	colorMusic = "#FFD700"
+	#Color for record sounds (hex format, e.g. #FFD700)
+	colorRecords = "#FFD700"
+	#Color for weather sounds (hex format, e.g. #4682B4)
+	colorWeather = "#4682B4"
+	#Color for block sounds (hex format, e.g. #8B4513)
+	colorBlocks = "#8B4513"
+	#Color for master sounds (hex format, e.g. #FFFF00)
+	colorMaster = "#FFFF00"
+

@@ -1,0 +1,12 @@
+{
+  "#Test": 0,
+  "250kgRandomBombAmount": 2,
+  "250kgAccurateBomb": true,
+  "10KgBarrageAmount": 12,
+  "NapalmBarrageAmount": 16,
+  "BunkerBusterTicks": 190,
+  "AtomicBombDamage": 120,
+  "AmountOfExplosions500kgSpawns": 30,
+  "WidthOfThe500kgExplosionSpawnRadius": 13,
+  "4thOfJulyBombAmount": 8
+}

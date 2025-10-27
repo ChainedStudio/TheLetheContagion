@@ -1,0 +1,4 @@
+#Key bindings listed here will be hidden from the key bindings menu.
+#Use this to hide key bindings that are not used by the player.
+hide_key_bindings = []
+

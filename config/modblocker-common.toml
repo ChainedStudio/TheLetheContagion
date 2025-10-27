@@ -1,0 +1,5 @@
+#List of mod IDs to block from being used
+#Example: ["create", "mekanism"]
+#Restart game after changing this list for full effect
+blockedMods = ["create"]
+

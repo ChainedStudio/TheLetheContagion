@@ -1,0 +1,7 @@
+
+[General]
+	#The non-sprinting speed of your character.
+	"Walk Speed" = 8.0
+	#The sprinting speed of your character.
+	Sprintspeed = 13.0
+

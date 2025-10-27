@@ -1,0 +1,61 @@
+
+[pap]
+	#The item used in PaP upgrade level I
+	PapItem1 = "minecraft:diamond"
+	#The item used in PaP upgrade level II
+	PapItem2 = "minecraft:diamond"
+	#The item used in PaP upgrade level III
+	PapItem3 = "minecraft:diamond"
+	#The number of items required in PaP upgrade level I
+	#Range: 1 ~ 65536
+	PapCost1 = 50
+	#The number of items required in PaP upgrade level II
+	#Range: 1 ~ 65536
+	PapCost2 = 150
+	#The number of items required in PaP upgrade level III
+	#Range: 1 ~ 65536
+	PapCost3 = 300
+	#The item used in Rarity upgrade tier C
+	RarityItemC = "minecraft:netherite_scrap"
+	#The item used in Rarity upgrade tier B
+	RarityItemB = "minecraft:netherite_scrap"
+	#The item used in Rarity upgrade tier A
+	RarityItemA = "minecraft:netherite_scrap"
+	#The item used in Rarity upgrade tier S
+	RarityItemS = "minecraft:netherite_scrap"
+	#The number of items required in Rarity upgrade tier C
+	#Range: 1 ~ 65536
+	RarityCostC = 50
+	#The number of items required in Rarity upgrade tier B
+	#Range: 1 ~ 65536
+	RarityCostB = 100
+	#The number of items required in Rarity upgrade tier A
+	#Range: 1 ~ 65536
+	RarityCostA = 250
+	#The number of items required in Rarity upgrade tier S
+	#Range: 1 ~ 65536
+	RarityCostS = 500
+	#Whether the damage multiplier from PaP and Rarity should be combined ADDITIVELY instead of Multiplicatively
+	UseAdditive = false
+	#Damage multiplier for weapon of PaP Level 1
+	#Range: 0.0 ~ 10.0
+	PapRate1 = 2.0
+	#Damage multiplier for weapon of PaP Level 2
+	#Range: 0.0 ~ 10.0
+	PapRate2 = 4.0
+	#Damage multiplier for weapon of PaP Level 3
+	#Range: 0.0 ~ 10.0
+	PapRate3 = 8.0
+	#Damage multiplier for weapon of Rarity C
+	#Range: 0.0 ~ 10.0
+	RarityRateC = 1.5
+	#Damage multiplier for weapon of Rarity B
+	#Range: 0.0 ~ 10.0
+	RarityRateB = 2.0
+	#Damage multiplier for weapon of Rarity A
+	#Range: 0.0 ~ 10.0
+	RarityRateA = 3.0
+	#Damage multiplier for weapon of Rarity S
+	#Range: 0.0 ~ 10.0
+	RarityRateS = 4.0
+
